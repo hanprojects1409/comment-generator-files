@@ -1,4 +1,4 @@
-const koreanComments = [
+window.koreanComments = [
 "테스트 1",
 "테스트 2",
 "테스트 3"
