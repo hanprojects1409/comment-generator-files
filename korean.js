@@ -1,3 +1,4 @@
+window.koreanComments = [
 "HAN과 Tod's는 완벽한 조합이에요!",
 "HAN은 Tod's의 브랜드 이미지와 정말 잘 어울려요",
 "HAN은 Tod's에 신선한 에너지를 더해줘요",
